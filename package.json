@@ -1,0 +1,22 @@
+{
+  "name": "cypress-getting-started",
+  "version": "1.0.0",
+  "description": "Trying out Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavloskii/cypress-getting-started.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Igor Pavloski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavloskii/cypress-getting-started/issues"
+  },
+  "homepage": "https://github.com/pavloskii/cypress-getting-started#readme"
+}
